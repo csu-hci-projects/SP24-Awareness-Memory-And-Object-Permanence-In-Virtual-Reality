@@ -1,0 +1,7 @@
+I was by myself so there was no group and I did the work. Some struggles were as mentioned in the videos that I 
+had a hard time getting participants to use the VR headset or they were unable to come and do the experiment
+at my place due to them being busy with finals as well. So I called up my dad and had participants in Califoria
+run the experiment while I controlled it remotely via teamviewer (super cool experience). There are some things that if given an opportunity
+to work on I would improve like making it able to be done by one person and not need a second person to conduct it. This would be done by
+havning OnClick() functions with the info cards and using counters and data would be stored in a CSV file. Overall had a good time with the project
+and learned some things about the human's cognitive functions and perception.

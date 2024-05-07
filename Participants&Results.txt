@@ -1,0 +1,182 @@
+Key:
+Round 1) 30 Red Balloons
+Round 2) 24 Blue 36 Yellow 
+Round 3) 36 Red 28 Yellow 36 Blue
+
+Results preset:
+InsertName Test 6 W/ light, W/ VR, Alien|Top
+1) R
+2) B
+3)  Total
+4*)  see the enigma 
+
+Alien position top:
+13.43 5.86 -12.63
+Alien position bottom:
+13.17983 11.24 -12.63
+
+MY PC:
+Alien position top:
+15.06589 3.77 -12.63
+Alien position bottom:
+15.06589 -1.6 -12.63
+
+WITH LIGHT | VR | BOTTOM
+Damian Test 1 W/ light, W/ VR, Alien|Bottom
+1) 29 R
+2) 24 B
+3) 82 Total
+4*) Noticed the enigma
+
+Michelle Test 2 W/ light, W/ VR, Alien|Bottom
+1) 31R
+2) 24B
+3) 92 Total
+4*) Noticed the enigma 
+
+Tom Test 11 W/ light, W/ VR, Alien|Bottom
+1) 12R
+2) 24B
+3) 51 Total
+4*) Did see the enigma 
+
+WITHOUT LIGHT | VR | BOTTOM
+Dylan S. Test 8 W/o light, W/ VR, Alien|Bottom
+1) 16R
+2) 24B
+3) 68 Total
+4*) Did see the enigma 
+
+Jared Test 9 W/o light, W/ VR, Alien|Bottom
+1) 30R
+2) 24B
+3) 76 Total
+4*) Did see the enigma 
+
+Jen Test 10 W/o light, W/ VR, Alien|Bottom
+1) 27R
+2) 24B
+3) 86 Total
+4*)  Did (sorta) see the enigma 
+
+WITH LIGHT | VR | TOP
+PJ Test 5 W/ light, W/ VR, Alien|Top
+1) 28R
+2) 24B
+3) 80 Total
+4*) Did not see the enigma 
+
+Brian Test 6 W/ light, W/ VR, Alien|Top
+1) 28R
+2) 24B
+3) 78 Total
+4*) Did not see the enigma 
+
+Joe Test 7 W/ light, W/ VR, Alien|Top
+1) 25R
+2) 25B
+3) 85 Total
+4*) Did not see the enigma 
+
+WITHOUT LIGHT | VR | TOP
+Bill Test 3 W/o light, W/ VR, Alien|Top
+1) 28R
+2) 24B
+3) 88 Total
+4*) Did not see the enigma 
+
+Jenny Test 4 W/o light, W/ VR, Alien|Top
+1) 29R
+2) 24B
+3) 83 Total
+4*) Did not see the enigma 
+
+Brandi Test 16 W/o light, W/ VR, Alien|Top
+1) 32R
+2) 24B
+3) 90 Total
+4*) Did see the enigma 
+
+WITHOUT LIGHT | NON-VR | BOTTOM
+AJ Test 12 W/o light, W/o VR, Alien|Bottom
+1) 28R
+2) 25B
+3) 75 Total
+4*) Did see the enigma 
+
+Kyle Test 19 W/o light, W/o VR, Alien|Bottom
+1) 29R
+2) 24B
+3) 85 Total
+4*) Did see the enigma  
+
+Henry Test 23 W/o light, W/o VR, Alien|Bottom
+1) 25R
+2) 24B
+3) 30 Total
+4*) Did see the enigma 
+
+WITHOUT LIGHT | NON-VR | TOP
+Mason Test 13 W/o light, W/o VR, Alien|Top
+1) 31R
+2) 24B
+3) 72 Total
+4*) Did not see the enigma 
+
+Dylan Test 20 W/o light, W/o VR, Alien|Top
+1) 29R
+2) 24B
+3) 91 Total
+4*) Did see the enigma 
+
+Phelix Test 22 W/o light, W/o VR, Alien|Top
+1) 28R
+2) 24B
+3) 58 Total
+4*) Did see the enigma 
+
+WITH LIGHT | NON-VR | BOTTOM
+Erica Test 14 W/ light, W/o VR, Alien|Bottom
+1) 25R
+2) 24B
+3) 70 Total
+4*) Did see the enigma 
+
+Rob Test 18 W/ light, W/o VR, Alien|Bottom
+1) 32R
+2) 24B
+3) 98 Total
+4*) Did see the enigma 
+
+Hannah Test 21 W/ light, W/o VR, Alien|Bottom
+1) 30R
+2) 23B
+3) 43 Total
+4*) Did see the enigma
+
+WITH LIGHT | NON-VR | TOP
+Billy Test 15 W/ light, W/o VR, Alien|Top
+1) 30R
+2) 24B
+3) 92 Total
+4*) Did see the enigma 
+
+Sabrina Test 17 W/ light, W/o VR, Alien|Top
+1) 30R
+2) 25B
+3) 104 Total
+4*) Did not see the enigma 
+
+Pete Test 24 W/ light, W/o VR, Alien|Top
+1) 27R
+2) 24B
+3) 73 Total
+4*) Did see the enigma 
+
+
+
+
+
+
+
+
