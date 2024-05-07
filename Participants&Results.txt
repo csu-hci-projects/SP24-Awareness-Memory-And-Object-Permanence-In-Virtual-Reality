@@ -57,7 +57,7 @@ Jen Test 10 W/o light, W/ VR, Alien|Bottom
 1) 27R
 2) 24B
 3) 86 Total
-4*)  Did (sorta) see the enigma 
+4*)  Did see the enigma 
 
 WITH LIGHT | VR | TOP
 PJ Test 5 W/ light, W/ VR, Alien|Top
@@ -172,6 +172,12 @@ Pete Test 24 W/ light, W/o VR, Alien|Top
 2) 24B
 3) 73 Total
 4*) Did see the enigma 
+
+
+
+
+
+
 
 
 
