@@ -1,8 +1,4 @@
-Videos: 
-1)
-2)
-3)
-
+Videos: https://drive.google.com/drive/folders/1yYuBfjdh6wLmnVkNQRGrcaesGAqQkiLi?usp=sharing
 github: https://github.com/csu-hci-projects/SP24-Awareness-Memory-And-Object-Permanence-In-Virtual-Reality
 
 How to run the project.
